@@ -1,8 +1,9 @@
 # Hi there 👋 I'm Vlad!
 
-I am a junior Full Stack Developer. Fresh out from the best IT bootcamp in Romania, that is Codecool. I spent an entire year(2021 - 2022) learning how to code and thanks to Codecool i became proficient in many technologies. Over the past year i worked in teams and also on solo projects and became comfortable working with Java, Spring Framework, Python, Javascript, React, CSS, Postgresql, Docker, Git and then some. 
-I developed a strong sense of the OOP concepts and principles and always cared about having a clean code (easy to read == easy to maintain) 😁 .
-My main projects are here, i will be happy to talk about them if given the chance.
+I am a junior Full Stack Developer. Fresh out from the best IT bootcamp in Romania, that is Codecool. <br>
+I spent an entire year(2021 - 2022) learning how to code and thanks to Codecool i became proficient in many technologies. Over the past year i worked in teams and also on solo projects and became comfortable working with Java, Spring Framework, Python, Javascript, React, CSS, Postgresql, Docker, Git and then some. 
+<br>I developed a strong sense of the OOP concepts and principles and always cared about having a clean code (easy to read == easy to maintain) 😁 .
+<br>My main projects are here, i will be happy to talk about them if given the chance.
 I want to be honest, i still have technologies to learn and skills to master, one year of intense learning (mostly coding 6-8h/day), created my foundation for this career but my aim is high and i am eager to learn more.
 
 Thank you !  
@@ -63,6 +64,7 @@ Thank you !
 - Bowling :bowling:
 - Sci-fi movies/tv shows :vulcan_salute:
 
+<br />
 
 ## Soft Skill set:
 

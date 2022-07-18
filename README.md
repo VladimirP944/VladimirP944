@@ -62,3 +62,12 @@ Thank you !
 - Playing video games :video_game:
 - Bowling :bowling:
 - Sci-fi movies/tv shows :vulcan_salute:
+
+
+## Soft Skill set:
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/VladimirP944/VladimirP944/master/assets/soft-skills.png" height="auto" width="100%">
+
+</p>

@@ -6,7 +6,6 @@ I spent an entire year(2021 - 2022) learning how to code and thanks to Codecool 
 <br>My main projects are here, i will be happy to talk about them if given the chance.
 I want to be honest, i still have technologies to learn and skills to master, one year of intense learning (mostly coding 6-8h/day), created my foundation for this career but my aim is high and i am eager to learn more.
 
-Thank you !  
 
 ## Skill set:
 

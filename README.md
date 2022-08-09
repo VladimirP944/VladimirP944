@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Vlad!
 
 I am a junior Full Stack Developer. Fresh out from the best IT bootcamp in Romania, that is Codecool. <br>
-I spent an entire year(2021 - 2022) learning how to code and thanks to Codecool i became proficient in many technologies. Over the past year i worked in teams and also on solo projects and became comfortable working with Java, Spring Framework, Python, Javascript, React, CSS, Postgresql, Docker, Git and then some. 
+I spent an entire year(2021 - 2022) learning how to code and thanks to Codecool I became proficient in many technologies. Over the past year I worked in teams and also on solo projects and became comfortable working with Java, Spring Boot, Python, Javascript, React, CSS, Postgresql, Docker, Git and then some. 
 <br>I developed a strong sense of the OOP concepts and principles and always cared about having a clean code (easy to read == easy to maintain) 😁 .
-<br>My main projects are here, i will be happy to talk about them if given the chance.
-I want to be honest, i still have technologies to learn and skills to master, one year of intense learning (mostly coding 6-8h/day), created my foundation for this career but my aim is high and i am eager to learn more.
+<br>My main projects are here, I will be happy to talk about them if given the chance.
+I want to be honest, I still have technologies to learn and skills to master, one year of intense learning (mostly coding 6-8h/day), created my foundation for this career but my aim is high and I am eager to learn more.
 
 
 ## Skill set:
@@ -49,6 +49,7 @@ I want to be honest, i still have technologies to learn and skills to master, on
 ### :nerd_face: I'm currently learning:
 
 - Firebase Authentication 
+- TypeScript
 
 ### :thinking: I want to learn:
 

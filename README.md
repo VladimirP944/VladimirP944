@@ -6,6 +6,12 @@ I spent an entire year(2021 - 2022) learning how to code and thanks to Codecool 
 <br>My main projects are here, I will be happy to talk about them if given the chance.
 I want to be honest, I still have technologies to learn and skills to master, one year of intense learning (mostly coding 6-8h/day), created my foundation for this career but my aim is high and I am eager to learn more.
 
+**Update 1.0:
+
+Since september 2022 i was given a chance to work at UST Romania as a data engineer. 
+2 months into the job I can say that I met cool people, I myself continued to grow along them, taking my first certification with AWS
+and learning how to leverage the snowflake platform for data extractions, ETL, data warehousing and some other tools for Master Data Management and also data lakes.
+
 
 ## Skill set:
 
@@ -44,7 +50,8 @@ I want to be honest, I still have technologies to learn and skills to master, on
 ### :technologist: I'm currently working on:
 
 - My React, Spring Security, and Docker skills :fire:
-- My Pet Project :muscle:
+- My AWS skills - mainly working on taking my aws developer certificate exam :muscle:
+- Sharpening my data analytical skills working for UST Romania
 
 ### :nerd_face: I'm currently learning:
 
@@ -56,6 +63,7 @@ I want to be honest, I still have technologies to learn and skills to master, on
 - Three.js
 - C# & .NET Core
 - Dart with Google's Flutter Framework
+- Microsoft Azure
 
 ### Outside of coding I enjoy:
 

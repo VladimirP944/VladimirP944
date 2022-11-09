@@ -54,9 +54,10 @@ and learning how to leverage the snowflake platform for data extractions, ETL, d
 
 ### :technologist: I'm currently working on:
 
-- My React, Spring Security, and Docker skills :fire:
-- My AWS skills - mainly working on taking my aws developer certificate exam :muscle:
-- Sharpening my data analytical skills working for UST Romania
+- React, Spring Security, and Docker skills :fire:
+- AWS skills - mainly working on taking my aws developer certificate exam :muscle:
+- Snowflake with SQL
+- Sharpening my data analyst skills working for UST Romania
 
 ### :nerd_face: I'm currently learning:
 

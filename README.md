@@ -45,6 +45,11 @@ and learning how to leverage the snowflake platform for data extractions, ETL, d
 <img src="https://raw.githubusercontent.com/VladimirP944/VladimirP944/master/assets/git-original.svg" height="auto" width="40">
 
 <img src="https://raw.githubusercontent.com/VladimirP944/VladimirP944/master/assets/github-original.svg" height="auto" width="40">
+  
+<img src="https://raw.githubusercontent.com/VladimirP944/VladimirP944/master/assets/800px-Amazon_Web_Services_Logo.svg.png" height="auto" width="40">
+  
+<img src="https://raw.githubusercontent.com/VladimirP944/VladimirP944/master/assets/305-3050776_hexagon-snowflake-icon-weather-icon.png)" height="auto" width="40">
+  
 </p>
 
 ### :technologist: I'm currently working on:
